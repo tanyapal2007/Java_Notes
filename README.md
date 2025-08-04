@@ -1,13 +1,29 @@
-# ☕ Java Beginner Practical Programs
+# ☕ Java Practical Programs for Beginners
 
-Welcome to this repository of **Java practical programs** designed for beginners! This collection covers essential programming concepts like:
-
-- ✅ If-Else statements
-- 🔁 Loops (for, while)
-- 📋 Arrays
-- 🎮 Fun mini-games like number guessing and dice rolling
+Welcome to this Java practical programs repository!  
+This project is designed for **beginners** to learn and practice Java fundamentals through simple examples and fun mini-projects.
 
 ---
 
-## 📁 Project Structure
+## 📚 Contents
 
+This repository includes programs organized into clear categories:
+
+Java_Practicals/
+│
+├── IfElse/
+│ ├── CheckEvenOdd.java
+│ ├── GreatestOfTwo.java
+│ └── PositiveNegative.java
+│
+├── Loops/
+│ ├── SumOfNNumbers.java
+│ ├── MultiplicationTable.java
+│ ├── Factorial.java
+│ └── ReverseNumber.java
+│
+├── Arrays/
+│ ├── ArrayOperations.java
+│ ├── FindMaxMin.java
+│ └── SortArray.java
+│
